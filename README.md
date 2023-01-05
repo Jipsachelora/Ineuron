@@ -1,2 +1,2 @@
 # Ineuron
-THIS Repository contains assignments from ineuron
+This Repository contains assignments from ineuron
